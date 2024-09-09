@@ -1,6 +1,6 @@
 # Compatibility Problem
 
-This program addresses the issue of dividing a finite set of individuals into teams to carry out a certain number of tasks. Due to issues related to temperament, ego, or professional rivalry, some individuals cannot be part of the same team. The program solves this problem by introducing the compatibility game \( (N, c) \), which consists of a set \( N \) of individuals and a map \( c \) from \( N \) to \( 2^N \) such that for all \( x \in N \), \( x \in c(x) \). This program displays all the solutions of the compatibility game.
+This program addresses the issue of dividing a finite set of individuals into teams to carry out a certain number of tasks. The program displays all the solutions of the compatibility game, which consists of a set \( N \) of individuals and a map \( c \) from \( N \) to \( 2^N \) such that for all \( x \in N \), \( x \in c(x) \).
 
 ## Table of Contents
 1. [Installation](#installation)
